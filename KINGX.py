@@ -949,7 +949,7 @@ def menu_apikey():
   print("\033[1;37m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print("")
   print("  SEND KEY ON ADMIN MESSENGER ");time.sleep(1)
-  os.system('xdg-open https://www.facebook.com/profile.php?id=100021956767252)
+  os.system('xdg-open https://m.me/ZAIN.ULLAH.869')
   print("");time.sleep(2)
   print("\x1b[1;97m  CHECKING YOUR APROVAL.                                      ");time.sleep (0.5)
   try:
